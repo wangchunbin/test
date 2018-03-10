@@ -1,0 +1,11 @@
+server:
+  context-path: /springboot
+  port: 8888
+human:
+  name: 帅哥
+  sex: 男
+  age: 28
+logging:
+  level:
+    root: info
+    

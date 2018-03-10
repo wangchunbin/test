@@ -1,0 +1,7 @@
+server:
+  context-path: /springboot
+  port: 8889
+human:
+  name: 美女
+  sex: 女
+  age: 28
